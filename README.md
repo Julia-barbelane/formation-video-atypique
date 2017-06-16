@@ -4,6 +4,5 @@
 
 Un parcours de formation étalé sur plusieurs semaines pour explorer des nouvelles forme de "communication" et comprendre comment produire des vidéos pertinentes avec les moyens du bord.
 
-## Au programme :
 # ETAPE#1
 Travail à distance via un groupe facebook pour se familiariser avec l'outil vidéo dans le cadre bienveillant d'un groupe connu, via des challenges, diffusion d'infos, conseils et méthodes.
